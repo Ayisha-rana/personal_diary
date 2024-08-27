@@ -8,12 +8,7 @@ void main() {
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
-
-
-
-  
-
-  @override
+@override
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Firstpage(),
